@@ -1,7 +1,7 @@
 # 💫 About Me:
 Alexxxxand<br>?? y. o.<br>🇺🇦
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/alexxxxand)
 
 # 💻 Tech Stack:
@@ -10,7 +10,8 @@ Alexxxxand<br>?? y. o.<br>🇺🇦
 ![](https://github-readme-stats.vercel.app/api?username=Alexxxxand&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alexxxxand&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexxxxand&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+# ✏️ IDE:
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 [![](https://visitcount.itsvg.in/api?id=Alexxxxand&icon=0&color=0)](https://visitcount.itsvg.in)
 
