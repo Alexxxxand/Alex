@@ -1,4 +1,4 @@
-то# 💫 About Me:
+# 💫 About Me:
 Alexxxxand<br>?? y. o.<br>🇺🇦
 
 # 🌐 Socials:
