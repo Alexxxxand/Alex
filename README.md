@@ -13,6 +13,6 @@ Alexxxxand<br>?? y. o.<br>🇺🇦
 # ✏️ IDE:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
-[![](https://visitcount.itsvg.in/api?id=Alexxxxand&icon=0&color=0)](https://visitcount.itsvg.in)
+![Stats](http://komarucat.xyz:3000/get/@dest4590)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
