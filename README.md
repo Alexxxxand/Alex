@@ -13,6 +13,6 @@ Alexxxxand<br>?? y. o.<br>🇺🇦
 # ✏️ IDE:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
-![Stats](http://vps.dest4590.lol:3000/get/@Alexxxxand)
+![Stats](http://moe-counter.glitch.me/get/@Alexxxxand)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
